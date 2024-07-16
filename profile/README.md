@@ -1,4 +1,4 @@
-### Try to run this code :) (remember to download everything from the ".github" folder)
+### Try running this code :) (remember to download everything from the ".github" folder)
 ```java
 import java.time.LocalDate;
 import java.util.List;
